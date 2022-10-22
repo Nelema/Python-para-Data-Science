@@ -7,3 +7,4 @@ Visualização dos Dados(Alguns Gráficos não plotaram ("Total de Produtos Vend
 Gráfico da dispersão(plt Scatter) 
 Estruturas de Dados na Linguagem Python
 Introducao a Biblioteca Pandas 
+Aula8 Análise Exploratória
